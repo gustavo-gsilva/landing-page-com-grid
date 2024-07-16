@@ -6,6 +6,6 @@ Olá pessoal! hoje venho trazer mais um projeto para vocês, dessa vez é uma la
 
 No momento que o usuário clica em alguma opção do menu ele é direcionado para ela,
 
-Clicando nos gifs você vai ser direcionado para a minha publicação no Linkedin, nela tem o link para os projetos.
+Clicando nos gifs você vai ser direcionado para a minha publicação no Linkedin, nela tem o link para o projeto.
 
 [<img src="./responsive.gif" alt="Um gif do resultado no responsivo">](https://www.linkedin.com/in/gustavo-silva-564b9a316/)
